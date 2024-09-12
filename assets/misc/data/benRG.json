@@ -1,0 +1,45 @@
+{
+  "path": "rolling girl/fullscreen",
+  "sprites": [
+    {
+      "image": "start",
+      "scale": 2.4,
+	  "indices": [0, 1, 2, 3, 4, 5],
+      "loop": true
+    },
+    {
+      "image": "start",
+      "scale": 2.4,
+	  "indices": [36, 37, 38, 39, 40, 41],
+      "loop": true
+    },
+    {
+      "image": "start",
+      "scale": 2.4,
+	  "startFrame": 46,
+      "loop": true
+    },
+    {
+      "image": "Roll1",
+      "scale": 1.5,
+      "screenCenter": true,
+      "loop": true
+    },
+    {
+      "image": "Roll2",
+      "scale": 1.5,
+      "screenCenter": true,
+      "loop": true
+    },
+    {
+      "image": "Spin",
+      "scale": 1.5,
+      "screenCenter": true,
+      "loop": true
+    },
+    {
+      "image": "end",
+      "scale": 2.4
+    }
+  ]
+}

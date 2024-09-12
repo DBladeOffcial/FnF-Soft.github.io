@@ -1,0 +1,60 @@
+{
+  "map": [
+    {
+      "key": "score_score",
+      "value": "Pontos"
+    },
+    {
+      "key": "score_misses",
+      "value": "Erros"
+    },
+    {
+      "key": "score_rating",
+      "value": "Avaliação"
+    },
+    {
+      "key": "botplay",
+      "value": "Automático"
+    },
+    {
+      "key": "rating_you_suck",
+      "value": "Que Horrível!"
+    },
+    {
+      "key": "rating_shit",
+      "value": "Merda"
+    },
+    {
+      "key": "rating_bad",
+      "value": "Ruim"
+    },
+    {
+      "key": "rating_bruh",
+      "value": "Mal"
+    },
+    {
+      "key": "rating_meh",
+      "value": "Meh"
+    },
+    {
+      "key": "rating_nice",
+      "value": "Decente"
+    },
+    {
+      "key": "rating_good",
+      "value": "Bom"
+    },
+    {
+      "key": "rating_great",
+      "value": "Ótimo"
+    },
+    {
+      "key": "rating_sick",
+      "value": "Manda Ver!"
+    },
+    {
+      "key": "rating_perfect",
+      "value": "Perfeito!!"
+    }
+  ]
+}

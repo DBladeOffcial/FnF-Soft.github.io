@@ -1,0 +1,484 @@
+{
+  "map": [
+    {
+      "key": "keygroup_notes",
+      "value": "NOTAS"
+    },
+    {
+      "key": "keygroup_ui",
+      "value": "MENUS"
+    },
+    {
+      "key": "keygroup_volume",
+      "value": "VOLUME"
+    },
+    {
+      "key": "keygroup_debug",
+      "value": "DEBUG"
+    },
+    {
+      "key": "key_note_left",
+      "value": "Esq."
+    },
+    {
+      "key": "key_note_down",
+      "value": "Baixo"
+    },
+    {
+      "key": "key_note_up",
+      "value": "Cima"
+    },
+    {
+      "key": "key_note_right",
+      "value": "Dir."
+    },
+    {
+      "key": "key_ui_left",
+      "value": "Esq."
+    },
+    {
+      "key": "key_ui_down",
+      "value": "Baixo"
+    },
+    {
+      "key": "key_ui_up",
+      "value": "Cima"
+    },
+    {
+      "key": "key_ui_right",
+      "value": "Dir."
+    },
+    {
+      "key": "key_reset",
+      "value": "Reset"
+    },
+    {
+      "key": "key_accept",
+      "value": "Accept"
+    },
+    {
+      "key": "key_back",
+      "value": "Back"
+    },
+    {
+      "key": "key_pause",
+      "value": "Pause"
+    },
+    {
+      "key": "key_volume_mute",
+      "value": "Mutar"
+    },
+    {
+      "key": "key_volume_up",
+      "value": "Mais"
+    },
+    {
+      "key": "key_volume_down",
+      "value": "Menos"
+    },
+    {
+      "key": "key_debug_1",
+      "value": "Botão 1"
+    },
+    {
+      "key": "key_debug_2",
+      "value": "Botão 2"
+    },
+    {
+      "key": "graphics_menu",
+      "value": "Configurações de Gráficos"
+    },
+    {
+      "key": "visuals_menu",
+      "value": "Opções Visuais"
+    },
+    {
+      "key": "gameplay_menu",
+      "value": "Configurações de Gameplay"
+    },
+    {
+      "key": "delay_beat_hit",
+      "value": "Batida!"
+    },
+    {
+      "key": "delay_current_offset",
+      "value": "Atraso"
+    },
+    {
+      "key": "combo_rating_offset",
+      "value": "Offset de Classificação"
+    },
+    {
+      "key": "combo_numbers_offset",
+      "value": "Offset de Números"
+    },
+    {
+      "key": "combo_offset",
+      "value": "Offset do Combo"
+    },
+    {
+      "key": "note_delay",
+      "value": "Atraso das Notas"
+    },
+    {
+      "key": "switch_on_accept",
+      "value": "Pressione Accept para Trocar"
+    },
+    {
+      "key": "setting_scroll_type",
+      "value": "Tipo de Scroll"
+    },
+    {
+      "key": "setting_scroll_type-multiplicative",
+      "value": "Multiplicativo"
+    },
+    {
+      "key": "setting_scroll_type-constant",
+      "value": "Constante"
+    },
+    {
+      "key": "setting_scroll_speed",
+      "value": "Velocidade de Scroll"
+    },
+    {
+      "key": "setting_playback_rate",
+      "value": "Aceleração da Música"
+    },
+    {
+      "key": "setting_health_gain_multiplier",
+      "value": "Mult. de Vida Ganha"
+    },
+    {
+      "key": "setting_health_loss_multiplier",
+      "value": "Mult. de Vida Perdida"
+    },
+    {
+      "key": "setting_instakill_on_miss",
+      "value": "Morrer ao Errar"
+    },
+    {
+      "key": "setting_practice_mode",
+      "value": "Modo Prática"
+    },
+    {
+      "key": "setting_botplay",
+      "value": "Modo Automático"
+    },
+    {
+      "key": "setting_low_quality",
+      "value": "Baixa Qualidade"
+    },
+    {
+      "key": "description_low_quality",
+      "value": "Se marcado, desativa alguns elementos do fundo,\ndiminui tempo de carregamento e melhora a performance."
+    },
+    {
+      "key": "setting_anti-aliasing",
+      "value": "Anti-Aliasing"
+    },
+    {
+      "key": "description_anti-aliasing",
+      "value": "Se desmarcado, o anti-aliasing é desativado, aumenta a performance ao custo dos gráficos ficarem menos suaves."
+    },
+    {
+      "key": "setting_shaders",
+      "value": "Shaders"
+    },
+    {
+      "key": "description_shaders",
+      "value": "Se desmarcado, desativa as shaders.\nElas são usadas para alguns efeitos especiais, e também são intensas para GPUs fracas."
+    },
+    {
+      "key": "setting_gpu_caching",
+      "value": "Caching na GPU"
+    },
+    {
+      "key": "description_gpu_caching",
+      "value": "Se marcado, permite que a GPU seja usada para armazenar texturas, reduzindo uso da memória RAM.\nNão ligue isso se sua Placa de Vídeo é ruim."
+    },
+    {
+      "key": "setting_framerate",
+      "value": "Taxa de Atualização"
+    },
+    {
+      "key": "description_framerate",
+      "value": "Também chamado de \"Framerate\", preciso explicar?"
+    },
+    {
+      "key": "setting_note_skins",
+      "value": "Estilo de Notas"
+    },
+    {
+      "key": "setting_note_skins-default",
+      "value": "Padrão"
+    },
+    {
+      "key": "setting_note_skins-future",
+      "value": "Futurista"
+    },
+    {
+      "key": "setting_note_skins-chip",
+      "value": "Ficha"
+    },
+    {
+      "key": "description_note_skins",
+      "value": "Escolha o seu estilo de Notas favorito."
+    },
+    {
+      "key": "setting_note_splashes",
+      "value": "Impacto das Notas"
+    },
+    {
+      "key": "setting_note_splashes-psych",
+      "value": "Psych"
+    },
+    {
+      "key": "setting_note_splashes-diamond",
+      "value": "Diamond"
+    },
+    {
+      "key": "setting_note_splashes-electric",
+      "value": "Elétrico"
+    },
+    {
+      "key": "setting_note_splashes-sparkles",
+      "value": "Brilho"
+    },
+    {
+      "key": "setting_note_splashes-vanilla",
+      "value": "Original"
+    },
+    {
+      "key": "description_note_skins",
+      "value": "Escolha o seu estilo de Impacto das Notas favorito."
+    },
+    {
+      "key": "setting_note_splash_opacity",
+      "value": "Opacidade do Impacto"
+    },
+    {
+      "key": "description_note_splash_opacity",
+      "value": "O quão transparente os Impactos das Notas devem ser."
+    },
+    {
+      "key": "setting_hide_hud",
+      "value": "Esconder HUD"
+    },
+    {
+      "key": "description_hide_hud",
+      "value": "Se marcado, a maioria dos elementos da UI ficarão ocultos."
+    },
+    {
+      "key": "setting_time_bar",
+      "value": "Barra de Tempo:"
+    },
+    {
+      "key": "setting_time_bar-time_left",
+      "value": "Tempo Restante"
+    },
+    {
+      "key": "setting_time_bar-time_elapsed",
+      "value": "Tempo Decorrido"
+    },
+    {
+      "key": "setting_time_bar-song_name",
+      "value": "Nome da Música"
+    },
+    {
+      "key": "setting_time_bar-disabled",
+      "value": "Desativada"
+    },
+    {
+      "key": "description_time_bar",
+      "value": "O que a Barra de Tempo deve mostrar?"
+    },
+    {
+      "key": "setting_flashing_lights",
+      "value": "Luzes Piscantes"
+    },
+    {
+      "key": "description_flashing_lights",
+      "value": "Desmarque isso se você é sensível a luzes que piscam!"
+    },
+    {
+      "key": "setting_camera_zooms",
+      "value": "Zoom da Câmera"
+    },
+    {
+      "key": "description_camera_zooms",
+      "value": "Se desmarcado, a câmera não dará zoom nas batidas da música."
+    },
+    {
+      "key": "setting_score_text_grow_on_hit",
+      "value": "Pontuação Cresce ao Acertar"
+    },
+    {
+      "key": "description_score_text_grow_on_hit",
+      "value": "Se desmarcado, desativa o texto da pontuação crescendo\nquando você acerta uma nota."
+    },
+    {
+      "key": "setting_health_bar_opacity",
+      "value": "Opacidade da Barra de Vida"
+    },
+    {
+      "key": "description_health_bar_opacity",
+      "value": "O quão transparente a Barra de Vida e os ícones devem ser."
+    },
+    {
+      "key": "setting_fps_counter",
+      "value": "Contador de FPS"
+    },
+    {
+      "key": "description_fps_counter",
+      "value": "Se desmarcado, esconde o contador no canto superior esquerdo da tela."
+    },
+    {
+      "key": "setting_pause_screen_song",
+      "value": "Música de Pausa:"
+    },
+    {
+      "key": "setting_pause_screen_song-none",
+      "value": "Nenhuma"
+    },
+    {
+      "key": "setting_pause_screen_song-breakfast",
+      "value": "Breakfast"
+    },
+    {
+      "key": "setting_pause_screen_song-tea_time",
+      "value": "Tea Time"
+    },
+    {
+      "key": "description_pause_screen_song",
+      "value": "Que música prefere para a tela de pausa?"
+    },
+    {
+      "key": "setting_check_for_updates",
+      "value": "Procurar por Atualizações"
+    },
+    {
+      "key": "description_check_for_updates",
+      "value": "Em builds oficiais da Psych Engine, marque esta caixa para\nvisar sobre atualizações ao iniciar o jogo."
+    },
+    {
+      "key": "setting_discord_rich_presence",
+      "value": "Discord Rich Presence"
+    },
+    {
+      "key": "description_discord_rich_presence",
+      "value": "Desmarque esta caixa para evitar leaks acidentais do seu Mod,\nIsso irá esconder o que você está jogando para os outros."
+    },
+    {
+      "key": "setting_combo_stacking",
+      "value": "Acúmulo de Combo"
+    },
+    {
+      "key": "description_combo_stacking",
+      "value": "Se desmarcado, classificações e números de combo não irão acumular\nao acertar uma nota, isso torna o jogo mais legível."
+    },
+    {
+      "key": "setting_downscroll",
+      "value": "Downscroll"
+    },
+    {
+      "key": "description_downscroll",
+      "value": "Se marcado, as notas irão de cima pra baixo, contrário do padrão."
+    },
+    {
+      "key": "setting_middlescroll",
+      "value": "Middlescroll"
+    },
+    {
+      "key": "description_middlescroll",
+      "value": "Se marcado, as suas notas e as do oponente ficarão centralizadas."
+    },
+    {
+      "key": "setting_opponent_notes",
+      "value": "Notas do Oponente"
+    },
+    {
+      "key": "description_opponent_notes",
+      "value": "Se desmarcado, as notas do oponente serão ocultadas."
+    },
+    {
+      "key": "setting_ghost_tapping",
+      "value": "Ghost Tapping"
+    },
+    {
+      "key": "description_ghost_tapping",
+      "value": "Se marcado, você não irá receber penalidades por apertar botões enquanto não há notas para apertar."
+    },
+    {
+      "key": "setting_auto_pause",
+      "value": "Pausa Automática"
+    },
+    {
+      "key": "description_auto_pause",
+      "value": "Se marcado, a janela é automaticamente pausada se não estiver em foco."
+    },
+    {
+      "key": "setting_disable_reset_button",
+      "value": "Desativar Botão de Reset"
+    },
+    {
+      "key": "description_disable_reset_button",
+      "value": "Se marcado, apertar Reset não irá matar o jogador."
+    },
+    {
+      "key": "setting_hitsound_volume",
+      "value": "Volume do Som de Acerto"
+    },
+    {
+      "key": "description_hitsound_volume",
+      "value": "As notas fazem um som de \"Tick!\" quando você as apertam"
+    },
+    {
+      "key": "setting_rating_offset",
+      "value": "Offset de Acerto"
+    },
+    {
+      "key": "description_rating_offset",
+      "value": "Adianta/atrasa o tempo de acertar, valores altos farão com que você acerte mais cedo/tarde."
+    },
+    {
+      "key": "setting_sick_hit_window",
+      "value": "Janela de Acerto \"Sick!\""
+    },
+    {
+      "key": "description_sick_hit_window",
+      "value": "Muda o tempo máximo para acertar uma classificação de \"Sick!\" em milisegundos."
+    },
+    {
+      "key": "setting_good_hit_window",
+      "value": "Janela de Acerto \"Good\""
+    },
+    {
+      "key": "description_good_hit_window",
+      "value": "Muda o tempo máximo para acertar uma classificação de \"Good\" em milisegundos."
+    },
+    {
+      "key": "setting_bad_hit_window",
+      "value": "Janela de Acerto \"Bad\""
+    },
+    {
+      "key": "description_bad_hit_window",
+      "value": "Muda o tempo máximo para acertar uma classificação de \"Bad\" em milisegundos."
+    },
+    {
+      "key": "setting_safe_frames",
+      "value": "Safe Frames"
+    },
+    {
+      "key": "description_safe_frames",
+      "value": "Ajusta quanto tempo a mais ou a menos você terá\npara acertar uma nota mais cedo ou mais tarde."
+    },
+    {
+      "key": "setting_sustains_as_one_note",
+      "value": "Notas Longas Fundidas"
+    },
+    {
+      "key": "description_sustains_as_one_note",
+      "value": "Se marcado, notas longas não poderão ser acertadas se a principal não for acertada,\nalém de contar como um único erro."
+    }
+  ]
+}

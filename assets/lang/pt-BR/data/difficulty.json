@@ -1,0 +1,16 @@
+{
+  "map": [
+    {
+      "key": "difficulty_easy",
+      "value": "Fácil"
+    },
+    {
+      "key": "difficulty_normal",
+      "value": "Normal"
+    },
+    {
+      "key": "difficulty_hard",
+      "value": "Difícil"
+    }
+  ]
+}

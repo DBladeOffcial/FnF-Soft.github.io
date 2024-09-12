@@ -1,0 +1,98 @@
+{
+  "sprites": [
+    {
+      "image": "LagStart",
+      "scale": 1.5,
+      "loop": true
+    },
+    {
+      "image": "Lag1",
+      "frameRate": 30,
+      "scale": 1.334,
+      "screenCenter": true,
+      "position": [0, 75]
+    },
+    {
+      "image": "Lag2",
+      "frameRate": 30,
+      "screenCenter": true,
+      "position": [0, 150]
+    },
+    {
+      "image": "Lag3",
+      "frameRate": 30,
+      "scale": 1.1,
+      "screenCenter": true,
+      "position": [0, 75]
+    },
+    {
+      "image": "Lag4",
+      "frameRate": 30,
+      "screenCenter": true,
+      "position": [0, 100]
+    },
+    {
+      "image": "Lag5",
+      "position": [620, 225]
+    },
+    {
+      "image": "Lag6",
+      "frameRate": 30,
+      "screenCenter": true,
+      "position": [-50, 115]
+    },
+    {
+      "image": "Lag2",
+      "frameRate": 30,
+      "position": [0, 150]
+    },
+    {
+      "image": "Lag2",
+      "frameRate": 30,
+      "position": [250, 150]
+    },
+    {
+      "image": "Lag2",
+      "frameRate": 30,
+      "position": [550, 150]
+    },
+    {
+      "image": "Lag2",
+      "frameRate": 30,
+      "position": [850, 150]
+    },
+    {
+      "image": "Lag2",
+      "frameRate": 30,
+      "position": [550, -200],
+      "flipY": true
+    },
+    {
+      "image": "Lag1",
+      "frameRate": 30,
+      "position": [0, 250]
+    },
+    {
+      "image": "Lag1",
+      "frameRate": 30,
+      "position": [225, 250]
+    },
+    {
+      "image": "Lag1",
+      "frameRate": 30,
+      "position": [525, 250]
+    },
+    {
+      "image": "Lag1",
+      "frameRate": 30,
+      "position": [825, 250]
+    },
+    {
+      "image": "Lag4",
+      "frameRate": 30,
+      "startFrame": 7,
+      "screenCenter": true,
+      "position": [0, 100]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "map": [
+    {
+      "key": "en",
+      "value": "English"
+    },
+    {
+      "key": "es",
+      "value": "Spanish"
+    },
+    {
+      "key": "fr",
+      "value": "French"
+    },
+    {
+      "key": "jp",
+      "value": "Japanese"
+    },
+    {
+      "key": "ko",
+      "value": "Korean"
+    },
+    {
+      "key": "pt-br",
+      "value": "Brazilian Portuguese"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sprites": [
+    {
+      "image": "LagSen",
+      "scale": 1.5,
+      "loop": true
+    },
+    {
+      "image": "LagSen1",
+      "scale": 1.334,
+      "screenCenter": true,
+      "position": [0, 75]
+    },
+    {
+      "image": "LagSen2",
+      "frameRate": 30,
+      "screenCenter": true,
+      "position": [0, 150]
+    },
+    {
+      "image": "LagSen3",
+      "scale": 1.1,
+      "screenCenter": true,
+      "position": [0, 25]
+    },
+    {
+      "image": "LagSen2",
+      "frameRate": 30,
+      "position": [-75, 150]
+    },
+    {
+      "image": "LagSen2",
+      "frameRate": 30,
+      "position": [175, 150]
+    },
+    {
+      "image": "LagSen2",
+      "frameRate": 30,
+      "position": [475, 150]
+    },
+    {
+      "image": "LagSen2",
+      "frameRate": 30,
+      "position": [775, 150]
+    }
+  ]
+}

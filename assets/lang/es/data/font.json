@@ -1,0 +1,24 @@
+{
+  "map": [
+    {
+      "key": "inky",
+      "value": "DK Inky Fingers.otf"
+    },
+    {
+      "key": "jack",
+      "value": "Jack Armstrong BB.ttf"
+    },
+    {
+      "key": "motley",
+      "value": "Motley Forces.ttf"
+    },
+    {
+      "key": "pixel",
+      "value": "pixel-latin.ttf"
+    },
+    {
+      "key": "vcr",
+      "value": "vcr.ttf"
+    }
+  ]
+}

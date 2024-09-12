@@ -1,0 +1,24 @@
+{
+  "map": [
+    {
+      "key": "inky",
+      "value": "Maplestory OTF Bold.otf;1;-0.135"
+    },
+    {
+      "key": "jack",
+      "value": "Jack Armstrong BB.ttf"
+    },
+    {
+      "key": "motley",
+      "value": "Maplestory OTF Bold.otf;1;-0.135"
+    },
+    {
+      "key": "pixel",
+      "value": "pixel-latin.ttf"
+    },
+    {
+      "key": "vcr",
+      "value": "vcr.ttf"
+    }
+  ]
+}

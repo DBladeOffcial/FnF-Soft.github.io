@@ -1,0 +1,32 @@
+{
+  "map": [
+    {
+      "key": "song",
+      "value": "Song"
+    },
+    {
+      "key": "artist",
+      "value": "Artist"
+    },
+    {
+      "key": "artists",
+      "value": "Artists"
+    },
+    {
+      "key": "song_rolling_girl",
+      "value": "ローリンガール"
+    },
+    {
+      "key": "artist_rolling_girl",
+      "value": "DatDavi\nOriginal: wowaka"
+    },
+    {
+      "key": "song_lagtrain",
+      "value": "ラグトレイン"
+    },
+    {
+      "key": "artist_lagtrain",
+      "value": "StardustTunes\nOriginal: 稲葉曇"
+    }
+  ]
+}
